@@ -3,6 +3,9 @@ Project Rosetta was developed for the NASA Space Apps Challenge 2025 under the t
 
 Our goal of this project is to automate exoplanet detection using NASA’s open datasets (Kepler KOI, TESS TOI). By leveraging Machine Learning ensembles, we classify planetary candidates, confirmed planets, and false positives which will help reduce the reliance on manual vetting and accelerating discoveries.
 
+<img width="1920" height="1080" alt="NSAC" src="https://github.com/user-attachments/assets/3be8a1c7-2ab9-4607-a160-368efc228a5e" />
+Fig: Identifying Exoplanets in Light Curves, Source: (Shallue & Vanderburg 2018)
+      
 🎯 Objectives
 Train AI/ML models on Kepler KOI dataset, validate generalization on TESS TOI.
 Handle extreme class imbalance in exoplanet data.
@@ -38,3 +41,4 @@ Libraries: scikit-learn, XGBoost, imbalanced-learn, seaborn, matplotlib
 Data: NASA Kepler KOI, TESS TOI
 
 ✨ “Project Rosetta — Decoding hidden worlds beyond our solar system.”
+
